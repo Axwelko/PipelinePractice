@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/alekseevap0275/urakov/_apis/build/status/Axwelko.PipelinePractice?branchName=develop)](https://dev.azure.com/alekseevap0275/urakov/_build/latest?definitionId=5&branchName=develop)
+
 # PipelinePractice
 Пример [статус бейджа](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser) с пайплайна:
 
