@@ -10,7 +10,6 @@ calc = Calculator()
 def hello_world():
     return f"Hello to every one"
 
-
 @app.route("/add/<int:a>&<int:b>")
 def add(a, b):
     return f"Add {a} and {b}. Got {calc.add(a, b)}!"
