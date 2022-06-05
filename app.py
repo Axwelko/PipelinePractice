@@ -8,7 +8,7 @@ calc = Calculator()
 
 @app.route('/')
 def hello_world():
-    return f"Hello, world"
+    return f"Hello to every one"
 
 
 @app.route("/add/<int:a>&<int:b>")
